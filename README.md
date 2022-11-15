@@ -109,7 +109,7 @@ To complete this lab, follow each of the steps below.
 
 ## Deliverables
 
-- `main.txt` file with a link to your Tableau Public workbook.
+- Link to your Tableau Public workbook.
 
 ## Submission
 
