@@ -111,6 +111,8 @@ To complete this lab, follow each of the steps below.
 
 - Link to your Tableau Public workbook.
 
+https://public.tableau.com/shared/C3T3GRSR4?:display_count=n&:origin=viz_share_link
+
 ## Submission
 
 Upon completion, publish your workbook on Tableau Public and place the shareable link into the submission link.
